@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Framework for automating UI",
   "scripts": {
-    "test": "npx cucumber-js"
+    "test": "npx cucumber-js --config cucumber.js"
   },
   "author": "Ganesh Mukke",
   "license": "ISC",
